@@ -1,0 +1,12 @@
+---
+  instances: 7
+  provider: libvirt
+  name_prefix: server0
+  name_suffix: .itversity.com
+  ip_prefix: 192.168.100.20
+  storage_devices: 2
+  disk_size: 60G
+  memory: 2048
+  cpus: 2
+  box: centos/7
+  path: bootstrap.sh

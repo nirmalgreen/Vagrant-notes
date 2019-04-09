@@ -1,14 +1,6 @@
 # multinode
 This is to create multiple virtual machines using vagrant script
 
-# Reference video
-* We have demonstrated as part of video in YouTube channel
-* You can watch the video from this [blog post](https://kaizen.itversity.com/courses/linux-fundamentals-for-software-professionals/lessons/session-11-setup-virtual-environment-using-virtual-box-and-vagrant/)
-
-# Instructions on Server with Linux, KVM, libvirt and Vagrant
-* Clone the repository
-* Make necessary changes to manifest.yml
-* It can create up to 10 virtual machines
 * Here are the default settings in manifest.yml
 ```
 ---
